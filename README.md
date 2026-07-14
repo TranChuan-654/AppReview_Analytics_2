@@ -55,11 +55,6 @@ python process.py
 
 → Tạo file `data/analyzed_reviews.csv` và `data/wordcloud_data.json`
 
-**Dùng PhoBERT (tùy chọn, cần GPU):**
-```bash
-set SENTIMENT_USE_MODEL=true
-python process.py
-```
 
 ## 📌 Bước 3 — Xem Dashboard
 
