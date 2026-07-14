@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files (over 100MB, GitHub size limit)
+data/raw_reviews.csv
+data/analyzed_reviews.csv
+
+# Environments & IDEs
+.env
+.venv
+venv/
+ENV/
+env/
+.vscode/
+.idea/
+.DS_Store
+scratch/
