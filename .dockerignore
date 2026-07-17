@@ -1,0 +1,32 @@
+# Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Bỏ qua môi trường ảo địa phương
+.venv/
+venv/
+env/
+
+# Bỏ qua thư mục dữ liệu (để tránh đẩy dữ liệu cào cũ/nặng vào Docker image)
+data/
+
+# Bỏ qua git và các file cấu hình IDE/OS
+.git/
+.gitignore
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Bỏ qua các file log hoặc báo cáo tạm thời
+*.log
+walkthrough.md
+implementation_plan.md
+task.md
+
+# Bỏ qua thư mục dashboard (chỉ dùng trực tiếp ở máy local của người dùng)
+dashboard/
+

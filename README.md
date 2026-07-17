@@ -2,6 +2,9 @@
 
 Hệ thống phân tích đánh giá ứng dụng ngân hàng Việt Nam từ Google Play.
 
+[![Docker Image](https://img.shields.io/badge/docker-tranchuan%2Fapp--review--pipeline-blue?logo=docker)](https://hub.docker.com/r/tranchuan/app-review-pipeline)
+
+
 ## 📋 Luồng sử dụng
 
 ```
@@ -77,4 +80,37 @@ Upload 2 file:
 | Xu hướng & Lỗi | Timeline theo tháng, top vấn đề lỗi, top sản phẩm |
 | Word Cloud | Từ khóa phổ biến theo màu cảm xúc, phân bổ sản phẩm |
 | Ý kiến | Danh sách review với phân trang và bộ lọc |
+
+## 🐳 Sử dụng với Docker
+
+Dự án đã được đóng gói thành Docker Image giúp dễ dàng chạy các luồng cào dữ liệu và phân tích mà không cần cài đặt Python hay các thư viện bổ sung trên máy của bạn.
+
+### 1. Build Docker Image (ở local nếu tự chỉnh sửa code)
+```bash
+docker build -t app-review-pipeline:latest .
+```
+
+### 2. Tải và chạy Image trực tiếp từ Docker Hub
+*(Thay thế `tranchuan` bằng Docker Hub username thực tế của bạn).*
+
+*   **Chạy luồng cào dữ liệu (scraper):**
+    ```bash
+    # Trên Windows (PowerShell)
+    docker run --rm -v "${PWD}/data:/app/data" tranchuan/app-review-pipeline:latest python scraper.py
+
+    # Trên Linux / macOS / Git Bash
+    docker run --rm -v "$(pwd)/data:/app/data" tranchuan/app-review-pipeline:latest python scraper.py
+    ```
+
+*   **Chạy luồng xử lý và phân tích (process):**
+    ```bash
+    # Trên Windows (PowerShell)
+    docker run --rm -v "${PWD}/data:/app/data" tranchuan/app-review-pipeline:latest python process.py
+
+    # Trên Linux / macOS / Git Bash
+    docker run --rm -v "$(pwd)/data:/app/data" tranchuan/app-review-pipeline:latest python process.py
+    ```
+
+*Kết quả sau khi chạy (các file CSV và JSON) sẽ được lưu thẳng vào thư mục `data/` trên máy thật của bạn để mở trên dashboard.*
+
 

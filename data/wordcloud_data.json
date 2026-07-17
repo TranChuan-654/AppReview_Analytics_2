@@ -13,7 +13,7 @@
       },
       {
         "text": "quá tệ",
-        "value": 565,
+        "value": 564,
         "sentiment": "Negative"
       },
       {
@@ -33,12 +33,12 @@
       },
       {
         "text": "không đăng nhập",
-        "value": 271,
+        "value": 272,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 267,
+        "value": 268,
         "sentiment": "Negative"
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "text": "lỗi không",
-        "value": 214,
+        "value": 215,
         "sentiment": "Negative"
       },
       {
@@ -58,7 +58,7 @@
       },
       {
         "text": "lỗi liên tục",
-        "value": 189,
+        "value": 190,
         "sentiment": "Negative"
       },
       {
@@ -108,7 +108,7 @@
       },
       {
         "text": "đăng nhập",
-        "value": 139,
+        "value": 137,
         "sentiment": "Negative"
       },
       {
@@ -158,7 +158,7 @@
       },
       {
         "text": "rất hài lòng",
-        "value": 118,
+        "value": 119,
         "sentiment": "Positive"
       },
       {
@@ -203,7 +203,7 @@
       },
       {
         "text": "vẫn không",
-        "value": 106,
+        "value": 107,
         "sentiment": "Negative"
       },
       {
@@ -218,7 +218,7 @@
       },
       {
         "text": "đăng nhập đc",
-        "value": 100,
+        "value": 101,
         "sentiment": "Negative"
       },
       {
@@ -277,6 +277,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "thu phí",
+        "value": 82,
+        "sentiment": "Negative"
+      },
+      {
         "text": "vẫn chưa",
         "value": 82,
         "sentiment": "Negative"
@@ -298,11 +303,6 @@
       },
       {
         "text": "quá chán",
-        "value": 80,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "thu phí",
         "value": 80,
         "sentiment": "Negative"
       },
@@ -397,6 +397,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "sau khi",
+        "value": 72,
+        "sentiment": "Negative"
+      },
+      {
         "text": "khóa tài khoản",
         "value": 71,
         "sentiment": "Negative"
@@ -412,7 +417,7 @@
         "sentiment": "Negative"
       },
       {
-        "text": "sau khi",
+        "text": "sao không",
         "value": 71,
         "sentiment": "Negative"
       },
@@ -427,17 +432,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "sao không",
-        "value": 69,
-        "sentiment": "Negative"
-      },
-      {
         "text": "vân tay",
         "value": 69,
         "sentiment": "Negative"
       },
       {
         "text": "100 k",
+        "value": 68,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "2 lần",
         "value": 68,
         "sentiment": "Negative"
       },
@@ -459,11 +464,6 @@
       {
         "text": "suốt ngày lỗi",
         "value": 68,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "2 lần",
-        "value": 67,
         "sentiment": "Negative"
       },
       {
@@ -515,7 +515,7 @@
       },
       {
         "text": "quá tệ",
-        "value": 563,
+        "value": 562,
         "sentiment": "Negative"
       },
       {
@@ -535,12 +535,12 @@
       },
       {
         "text": "không đăng nhập",
-        "value": 269,
+        "value": 270,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 265,
+        "value": 266,
         "sentiment": "Negative"
       },
       {
@@ -550,7 +550,7 @@
       },
       {
         "text": "lỗi không",
-        "value": 213,
+        "value": 214,
         "sentiment": "Negative"
       },
       {
@@ -560,7 +560,7 @@
       },
       {
         "text": "lỗi liên tục",
-        "value": 188,
+        "value": 189,
         "sentiment": "Negative"
       },
       {
@@ -610,7 +610,7 @@
       },
       {
         "text": "đăng nhập",
-        "value": 139,
+        "value": 137,
         "sentiment": "Negative"
       },
       {
@@ -659,12 +659,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "nhiều tiện ích",
-        "value": 117,
+        "text": "rất hài lòng",
+        "value": 118,
         "sentiment": "Positive"
       },
       {
-        "text": "rất hài lòng",
+        "text": "nhiều tiện ích",
         "value": 117,
         "sentiment": "Positive"
       },
@@ -705,7 +705,7 @@
       },
       {
         "text": "vẫn không",
-        "value": 106,
+        "value": 107,
         "sentiment": "Negative"
       },
       {
@@ -714,12 +714,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "quá nhiều",
-        "value": 100,
+        "text": "đăng nhập đc",
+        "value": 101,
         "sentiment": "Negative"
       },
       {
-        "text": "đăng nhập đc",
+        "text": "quá nhiều",
         "value": 100,
         "sentiment": "Negative"
       },
@@ -779,6 +779,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "thu phí",
+        "value": 82,
+        "sentiment": "Negative"
+      },
+      {
         "text": "vẫn chưa",
         "value": 81,
         "sentiment": "Negative"
@@ -795,11 +800,6 @@
       },
       {
         "text": "nhiều lần",
-        "value": 80,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "thu phí",
         "value": 80,
         "sentiment": "Negative"
       },
@@ -914,22 +914,22 @@
         "sentiment": "Negative"
       },
       {
+        "text": "sao không",
+        "value": 71,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "sau khi",
+        "value": 71,
+        "sentiment": "Negative"
+      },
+      {
         "text": "mở thẻ",
         "value": 70,
         "sentiment": "Negative"
       },
       {
-        "text": "sau khi",
-        "value": 70,
-        "sentiment": "Negative"
-      },
-      {
         "text": "phí thường niên",
-        "value": 69,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao không",
         "value": 69,
         "sentiment": "Negative"
       },
@@ -940,6 +940,11 @@
       },
       {
         "text": "100 k",
+        "value": 68,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "2 lần",
         "value": 68,
         "sentiment": "Negative"
       },
@@ -956,11 +961,6 @@
       {
         "text": "mấy ngày",
         "value": 68,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "2 lần",
-        "value": 67,
         "sentiment": "Negative"
       },
       {
@@ -994,14 +994,14 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tiền ko",
+        "text": "nhập đúng",
         "value": 65,
         "sentiment": "Negative"
       },
       {
-        "text": "giao diện đẹp",
-        "value": 64,
-        "sentiment": "Positive"
+        "text": "tiền ko",
+        "value": 65,
+        "sentiment": "Negative"
       }
     ],
     "efast": [
@@ -1021,12 +1021,12 @@
     "all": [
       {
         "text": "chuyển tiền",
-        "value": 2653,
+        "value": 2656,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 1275,
+        "value": 1276,
         "sentiment": "Negative"
       },
       {
@@ -1046,7 +1046,7 @@
       },
       {
         "text": "50 k",
-        "value": 454,
+        "value": 456,
         "sentiment": "Negative"
       },
       {
@@ -1071,12 +1071,12 @@
       },
       {
         "text": "ko đc",
-        "value": 350,
+        "value": 351,
         "sentiment": "Negative"
       },
       {
         "text": "thu phí",
-        "value": 343,
+        "value": 342,
         "sentiment": "Negative"
       },
       {
@@ -1091,7 +1091,7 @@
       },
       {
         "text": "hay bị",
-        "value": 326,
+        "value": 327,
         "sentiment": "Negative"
       },
       {
@@ -1106,7 +1106,7 @@
       },
       {
         "text": "bị trừ",
-        "value": 301,
+        "value": 300,
         "sentiment": "Negative"
       },
       {
@@ -1156,7 +1156,7 @@
       },
       {
         "text": "hay lỗi",
-        "value": 243,
+        "value": 244,
         "sentiment": "Negative"
       },
       {
@@ -1181,7 +1181,7 @@
       },
       {
         "text": "biến động số dư",
-        "value": 230,
+        "value": 229,
         "sentiment": "Negative"
       },
       {
@@ -1206,7 +1206,7 @@
       },
       {
         "text": "ko chuyển",
-        "value": 213,
+        "value": 214,
         "sentiment": "Negative"
       },
       {
@@ -1220,12 +1220,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "1 tháng",
-        "value": 202,
+        "text": "vẫn chưa",
+        "value": 203,
         "sentiment": "Negative"
       },
       {
-        "text": "vẫn chưa",
+        "text": "1 tháng",
         "value": 202,
         "sentiment": "Negative"
       },
@@ -1261,7 +1261,7 @@
       },
       {
         "text": "gọi tổng đài",
-        "value": 191,
+        "value": 193,
         "sentiment": "Negative"
       },
       {
@@ -1285,17 +1285,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tiền ko",
+        "value": 181,
+        "sentiment": "Negative"
+      },
+      {
         "text": "cứ báo",
         "value": 180,
         "sentiment": "Negative"
       },
       {
         "text": "lỗi nhiều",
-        "value": 180,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "tiền ko",
         "value": 180,
         "sentiment": "Negative"
       },
@@ -1311,12 +1311,12 @@
       },
       {
         "text": "quá chậm",
-        "value": 175,
+        "value": 176,
         "sentiment": "Negative"
       },
       {
         "text": "không đủ",
-        "value": 174,
+        "value": 175,
         "sentiment": "Negative"
       },
       {
@@ -1446,7 +1446,12 @@
       },
       {
         "text": "tệ quá",
-        "value": 138,
+        "value": 139,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "rồi vẫn",
+        "value": 137,
         "sentiment": "Negative"
       },
       {
@@ -1455,8 +1460,8 @@
         "sentiment": "Negative"
       },
       {
-        "text": "rồi vẫn",
-        "value": 136,
+        "text": "mất thời gian",
+        "value": 130,
         "sentiment": "Negative"
       },
       {
@@ -1465,22 +1470,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "mất thời gian",
+        "text": "mãi không",
         "value": 129,
         "sentiment": "Negative"
       },
       {
-        "text": "mãi không",
+        "text": "mỗi tháng",
         "value": 128,
         "sentiment": "Negative"
       },
       {
         "text": "chuyển đc",
-        "value": 127,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "mỗi tháng",
         "value": 127,
         "sentiment": "Negative"
       },
@@ -1492,11 +1492,6 @@
       {
         "text": "không đc",
         "value": 125,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "số tiền",
-        "value": 124,
         "sentiment": "Negative"
       },
       {
@@ -1515,6 +1510,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "số tiền",
+        "value": 123,
+        "sentiment": "Negative"
+      },
+      {
         "text": "2 ngày",
         "value": 121,
         "sentiment": "Negative"
@@ -1523,12 +1523,12 @@
     "retail": [
       {
         "text": "chuyển tiền",
-        "value": 2652,
+        "value": 2655,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 1273,
+        "value": 1274,
         "sentiment": "Negative"
       },
       {
@@ -1548,7 +1548,7 @@
       },
       {
         "text": "50 k",
-        "value": 454,
+        "value": 456,
         "sentiment": "Negative"
       },
       {
@@ -1573,12 +1573,12 @@
       },
       {
         "text": "ko đc",
-        "value": 349,
+        "value": 350,
         "sentiment": "Negative"
       },
       {
         "text": "thu phí",
-        "value": 343,
+        "value": 342,
         "sentiment": "Negative"
       },
       {
@@ -1593,7 +1593,7 @@
       },
       {
         "text": "hay bị",
-        "value": 326,
+        "value": 327,
         "sentiment": "Negative"
       },
       {
@@ -1608,7 +1608,7 @@
       },
       {
         "text": "bị trừ",
-        "value": 301,
+        "value": 300,
         "sentiment": "Negative"
       },
       {
@@ -1683,7 +1683,7 @@
       },
       {
         "text": "biến động số dư",
-        "value": 230,
+        "value": 229,
         "sentiment": "Negative"
       },
       {
@@ -1708,7 +1708,7 @@
       },
       {
         "text": "ko chuyển",
-        "value": 212,
+        "value": 213,
         "sentiment": "Negative"
       },
       {
@@ -1722,12 +1722,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "1 tháng",
-        "value": 202,
+        "text": "vẫn chưa",
+        "value": 203,
         "sentiment": "Negative"
       },
       {
-        "text": "vẫn chưa",
+        "text": "1 tháng",
         "value": 202,
         "sentiment": "Negative"
       },
@@ -1787,12 +1787,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "lỗi nhiều",
-        "value": 180,
+        "text": "tiền ko",
+        "value": 181,
         "sentiment": "Negative"
       },
       {
-        "text": "tiền ko",
+        "text": "lỗi nhiều",
         "value": 180,
         "sentiment": "Negative"
       },
@@ -1813,12 +1813,12 @@
       },
       {
         "text": "quá chậm",
-        "value": 175,
+        "value": 176,
         "sentiment": "Negative"
       },
       {
         "text": "không đủ",
-        "value": 174,
+        "value": 175,
         "sentiment": "Negative"
       },
       {
@@ -1948,17 +1948,17 @@
       },
       {
         "text": "tệ quá",
-        "value": 138,
+        "value": 139,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "rồi vẫn",
+        "value": 137,
         "sentiment": "Negative"
       },
       {
         "text": "tiền trừ",
         "value": 137,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "rồi vẫn",
-        "value": 136,
         "sentiment": "Negative"
       },
       {
@@ -1968,17 +1968,17 @@
       },
       {
         "text": "mất thời gian",
-        "value": 128,
+        "value": 129,
         "sentiment": "Negative"
       },
       {
         "text": "mãi không",
-        "value": 127,
+        "value": 128,
         "sentiment": "Negative"
       },
       {
         "text": "mỗi tháng",
-        "value": 127,
+        "value": 128,
         "sentiment": "Negative"
       },
       {
@@ -1997,17 +1997,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "số tiền",
-        "value": 124,
-        "sentiment": "Negative"
-      },
-      {
         "text": "ngày bảo trì",
         "value": 123,
         "sentiment": "Negative"
       },
       {
         "text": "sao không",
+        "value": 123,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "số tiền",
         "value": 123,
         "sentiment": "Negative"
       },
@@ -2049,7 +2049,7 @@
     "all": [
       {
         "text": "chuyển tiền",
-        "value": 1441,
+        "value": 1442,
         "sentiment": "Negative"
       },
       {
@@ -2059,7 +2059,7 @@
       },
       {
         "text": "quá tệ",
-        "value": 695,
+        "value": 697,
         "sentiment": "Negative"
       },
       {
@@ -2074,12 +2074,12 @@
       },
       {
         "text": "báo lỗi",
-        "value": 402,
+        "value": 401,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 378,
+        "value": 379,
         "sentiment": "Negative"
       },
       {
@@ -2119,17 +2119,17 @@
       },
       {
         "text": "lỗi liên tục",
-        "value": 209,
+        "value": 210,
         "sentiment": "Negative"
       },
       {
         "text": "tin nhắn",
-        "value": 205,
+        "value": 206,
         "sentiment": "Negative"
       },
       {
         "text": "gửi mã",
-        "value": 204,
+        "value": 205,
         "sentiment": "Negative"
       },
       {
@@ -2154,7 +2154,7 @@
       },
       {
         "text": "đăng nhập",
-        "value": 189,
+        "value": 188,
         "sentiment": "Negative"
       },
       {
@@ -2163,17 +2163,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "k đc",
+        "value": 185,
+        "sentiment": "Negative"
+      },
+      {
         "text": "không nhận",
-        "value": 184,
+        "value": 185,
         "sentiment": "Negative"
       },
       {
         "text": "cứ bị",
-        "value": 183,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "k đc",
         "value": 183,
         "sentiment": "Negative"
       },
@@ -2184,12 +2184,12 @@
       },
       {
         "text": "cứ báo",
-        "value": 176,
+        "value": 177,
         "sentiment": "Negative"
       },
       {
         "text": "ko đăng nhập",
-        "value": 168,
+        "value": 169,
         "sentiment": "Negative"
       },
       {
@@ -2203,13 +2203,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không thấy",
+        "text": "không gửi",
         "value": 156,
         "sentiment": "Negative"
       },
       {
-        "text": "không gửi",
-        "value": 155,
+        "text": "không thấy",
+        "value": 156,
         "sentiment": "Negative"
       },
       {
@@ -2323,13 +2323,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "đăng nhập bằng",
+        "text": "bắt cập nhật",
         "value": 123,
         "sentiment": "Negative"
       },
       {
-        "text": "bắt cập nhật",
-        "value": 122,
+        "text": "đăng nhập bằng",
+        "value": 123,
         "sentiment": "Negative"
       },
       {
@@ -2344,12 +2344,12 @@
       },
       {
         "text": "đăng nhập không",
-        "value": 117,
+        "value": 118,
         "sentiment": "Negative"
       },
       {
         "text": "gửi mã otp",
-        "value": 114,
+        "value": 116,
         "sentiment": "Negative"
       },
       {
@@ -2383,6 +2383,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "ko dc",
+        "value": 111,
+        "sentiment": "Negative"
+      },
+      {
         "text": "chính hãng",
         "value": 110,
         "sentiment": "Negative"
@@ -2393,13 +2398,8 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko dc",
-        "value": 110,
-        "sentiment": "Negative"
-      },
-      {
         "text": "ko nhận",
-        "value": 109,
+        "value": 110,
         "sentiment": "Negative"
       },
       {
@@ -2409,7 +2409,7 @@
       },
       {
         "text": "gửi tin",
-        "value": 107,
+        "value": 108,
         "sentiment": "Negative"
       },
       {
@@ -2433,17 +2433,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "sao không",
+        "value": 106,
+        "sentiment": "Negative"
+      },
+      {
         "text": "thiết bị mới",
         "value": 106,
         "sentiment": "Negative"
       },
       {
         "text": "bị đơ",
-        "value": 105,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao không",
         "value": 105,
         "sentiment": "Negative"
       },
@@ -2478,14 +2478,14 @@
         "sentiment": "Negative"
       },
       {
+        "text": "bị khóa",
+        "value": 99,
+        "sentiment": "Negative"
+      },
+      {
         "text": "5 sao",
         "value": 98,
         "sentiment": "Positive"
-      },
-      {
-        "text": "bị khóa",
-        "value": 98,
-        "sentiment": "Negative"
       },
       {
         "text": "bị treo",
@@ -2551,7 +2551,7 @@
     "retail": [
       {
         "text": "chuyển tiền",
-        "value": 1434,
+        "value": 1435,
         "sentiment": "Negative"
       },
       {
@@ -2561,7 +2561,7 @@
       },
       {
         "text": "quá tệ",
-        "value": 692,
+        "value": 694,
         "sentiment": "Negative"
       },
       {
@@ -2576,12 +2576,12 @@
       },
       {
         "text": "báo lỗi",
-        "value": 402,
+        "value": 401,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 378,
+        "value": 379,
         "sentiment": "Negative"
       },
       {
@@ -2621,17 +2621,17 @@
       },
       {
         "text": "lỗi liên tục",
-        "value": 209,
+        "value": 210,
         "sentiment": "Negative"
       },
       {
         "text": "tin nhắn",
-        "value": 205,
+        "value": 206,
         "sentiment": "Negative"
       },
       {
         "text": "gửi mã",
-        "value": 204,
+        "value": 205,
         "sentiment": "Negative"
       },
       {
@@ -2656,22 +2656,22 @@
       },
       {
         "text": "đăng nhập",
-        "value": 188,
+        "value": 187,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "k đc",
+        "value": 185,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "không nhận",
+        "value": 185,
         "sentiment": "Negative"
       },
       {
         "text": "bằng vân tay",
         "value": 184,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "không nhận",
-        "value": 184,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "k đc",
-        "value": 183,
         "sentiment": "Negative"
       },
       {
@@ -2686,12 +2686,12 @@
       },
       {
         "text": "cứ báo",
-        "value": 175,
+        "value": 176,
         "sentiment": "Negative"
       },
       {
         "text": "ko đăng nhập",
-        "value": 167,
+        "value": 168,
         "sentiment": "Negative"
       },
       {
@@ -2705,13 +2705,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không thấy",
+        "text": "không gửi",
         "value": 156,
         "sentiment": "Negative"
       },
       {
-        "text": "không gửi",
-        "value": 155,
+        "text": "không thấy",
+        "value": 156,
         "sentiment": "Negative"
       },
       {
@@ -2826,7 +2826,7 @@
       },
       {
         "text": "bắt cập nhật",
-        "value": 122,
+        "value": 123,
         "sentiment": "Negative"
       },
       {
@@ -2846,12 +2846,12 @@
       },
       {
         "text": "đăng nhập không",
-        "value": 117,
+        "value": 118,
         "sentiment": "Negative"
       },
       {
         "text": "gửi mã otp",
-        "value": 114,
+        "value": 116,
         "sentiment": "Negative"
       },
       {
@@ -2885,6 +2885,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "ko dc",
+        "value": 111,
+        "sentiment": "Negative"
+      },
+      {
         "text": "chính hãng",
         "value": 110,
         "sentiment": "Negative"
@@ -2895,23 +2900,18 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko dc",
+        "text": "ko nhận",
         "value": 110,
         "sentiment": "Negative"
       },
       {
-        "text": "ko nhận",
-        "value": 109,
+        "text": "gửi tin",
+        "value": 108,
         "sentiment": "Negative"
       },
       {
         "text": "nhận đc",
         "value": 108,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "gửi tin",
-        "value": 107,
         "sentiment": "Negative"
       },
       {
@@ -2925,17 +2925,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "sao không",
+        "value": 106,
+        "sentiment": "Negative"
+      },
+      {
         "text": "thiết bị mới",
         "value": 106,
         "sentiment": "Negative"
       },
       {
         "text": "bị đơ",
-        "value": 105,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao không",
         "value": 105,
         "sentiment": "Negative"
       },
@@ -2975,14 +2975,14 @@
         "sentiment": "Negative"
       },
       {
+        "text": "bị khóa",
+        "value": 99,
+        "sentiment": "Negative"
+      },
+      {
         "text": "5 sao",
         "value": 98,
         "sentiment": "Positive"
-      },
-      {
-        "text": "bị khóa",
-        "value": 98,
-        "sentiment": "Negative"
       },
       {
         "text": "bị treo",
@@ -3107,7 +3107,7 @@
       },
       {
         "text": "dễ sử dụng",
-        "value": 1084,
+        "value": 1083,
         "sentiment": "Positive"
       },
       {
@@ -3117,7 +3117,7 @@
       },
       {
         "text": "bị lỗi",
-        "value": 707,
+        "value": 708,
         "sentiment": "Negative"
       },
       {
@@ -3167,7 +3167,7 @@
       },
       {
         "text": "nhập đúng",
-        "value": 347,
+        "value": 348,
         "sentiment": "Negative"
       },
       {
@@ -3186,13 +3186,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "đăng nhập trên",
+        "text": "báo lỗi",
         "value": 293,
         "sentiment": "Negative"
       },
       {
-        "text": "báo lỗi",
-        "value": 291,
+        "text": "đăng nhập trên",
+        "value": 293,
         "sentiment": "Negative"
       },
       {
@@ -3217,7 +3217,7 @@
       },
       {
         "text": "cứ báo",
-        "value": 257,
+        "value": 259,
         "sentiment": "Negative"
       },
       {
@@ -3227,7 +3227,7 @@
       },
       {
         "text": "đăng nhập",
-        "value": 246,
+        "value": 247,
         "sentiment": "Negative"
       },
       {
@@ -3242,7 +3242,7 @@
       },
       {
         "text": "lỗi không",
-        "value": 234,
+        "value": 235,
         "sentiment": "Negative"
       },
       {
@@ -3251,23 +3251,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "gọi tổng đài",
+        "value": 227,
+        "sentiment": "Negative"
+      },
+      {
         "text": "nhiều tính năng",
         "value": 227,
         "sentiment": "Positive"
       },
       {
-        "text": "gọi tổng đài",
-        "value": 226,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "cứ bị",
-        "value": 224,
-        "sentiment": "Negative"
-      },
-      {
         "text": "ko đăng nhập",
-        "value": 224,
+        "value": 225,
         "sentiment": "Negative"
       },
       {
@@ -3278,6 +3273,11 @@
       {
         "text": "mất thời gian",
         "value": 223,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cứ bị",
+        "value": 222,
         "sentiment": "Negative"
       },
       {
@@ -3321,18 +3321,18 @@
         "sentiment": "Positive"
       },
       {
+        "text": "rất tuyệt vời",
+        "value": 189,
+        "sentiment": "Positive"
+      },
+      {
         "text": "cập nhật phiên bản",
         "value": 187,
         "sentiment": "Negative"
       },
       {
-        "text": "rất tuyệt vời",
-        "value": 187,
-        "sentiment": "Positive"
-      },
-      {
         "text": "bảo sai",
-        "value": 185,
+        "value": 186,
         "sentiment": "Negative"
       },
       {
@@ -3482,7 +3482,7 @@
       },
       {
         "text": "quên mk",
-        "value": 137,
+        "value": 138,
         "sentiment": "Negative"
       },
       {
@@ -3491,14 +3491,14 @@
         "sentiment": "Negative"
       },
       {
-        "text": "quá nhiều",
-        "value": 134,
-        "sentiment": "Negative"
-      },
-      {
         "text": "huu ich",
         "value": 133,
         "sentiment": "Positive"
+      },
+      {
+        "text": "quá nhiều",
+        "value": 133,
+        "sentiment": "Negative"
       },
       {
         "text": "bản cập nhật",
@@ -3561,17 +3561,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "50 k",
+        "text": "không hiểu",
         "value": 124,
         "sentiment": "Negative"
       },
       {
-        "text": "không hiểu",
-        "value": 123,
+        "text": "xong không",
+        "value": 124,
         "sentiment": "Negative"
       },
       {
-        "text": "xong không",
+        "text": "50 k",
         "value": 123,
         "sentiment": "Negative"
       },
@@ -3609,7 +3609,7 @@
       },
       {
         "text": "dễ sử dụng",
-        "value": 1079,
+        "value": 1078,
         "sentiment": "Positive"
       },
       {
@@ -3619,7 +3619,7 @@
       },
       {
         "text": "bị lỗi",
-        "value": 706,
+        "value": 707,
         "sentiment": "Negative"
       },
       {
@@ -3669,7 +3669,7 @@
       },
       {
         "text": "nhập đúng",
-        "value": 347,
+        "value": 348,
         "sentiment": "Negative"
       },
       {
@@ -3694,7 +3694,7 @@
       },
       {
         "text": "báo lỗi",
-        "value": 290,
+        "value": 292,
         "sentiment": "Negative"
       },
       {
@@ -3719,7 +3719,7 @@
       },
       {
         "text": "cứ báo",
-        "value": 257,
+        "value": 259,
         "sentiment": "Negative"
       },
       {
@@ -3729,7 +3729,7 @@
       },
       {
         "text": "đăng nhập",
-        "value": 246,
+        "value": 247,
         "sentiment": "Negative"
       },
       {
@@ -3744,7 +3744,7 @@
       },
       {
         "text": "lỗi không",
-        "value": 234,
+        "value": 235,
         "sentiment": "Negative"
       },
       {
@@ -3759,17 +3759,17 @@
       },
       {
         "text": "gọi tổng đài",
+        "value": 226,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "ko đăng nhập",
         "value": 225,
         "sentiment": "Negative"
       },
       {
         "text": "cứ bị",
-        "value": 224,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "ko đăng nhập",
-        "value": 224,
+        "value": 222,
         "sentiment": "Negative"
       },
       {
@@ -3823,18 +3823,18 @@
         "sentiment": "Positive"
       },
       {
+        "text": "rất tuyệt vời",
+        "value": 189,
+        "sentiment": "Positive"
+      },
+      {
         "text": "cập nhật phiên bản",
         "value": 187,
         "sentiment": "Negative"
       },
       {
-        "text": "rất tuyệt vời",
-        "value": 187,
-        "sentiment": "Positive"
-      },
-      {
         "text": "bảo sai",
-        "value": 185,
+        "value": 186,
         "sentiment": "Negative"
       },
       {
@@ -3984,7 +3984,7 @@
       },
       {
         "text": "quên mk",
-        "value": 137,
+        "value": 138,
         "sentiment": "Negative"
       },
       {
@@ -3998,12 +3998,12 @@
         "sentiment": "Positive"
       },
       {
-        "text": "quá nhiều",
-        "value": 133,
+        "text": "bản cập nhật",
+        "value": 132,
         "sentiment": "Negative"
       },
       {
-        "text": "bản cập nhật",
+        "text": "quá nhiều",
         "value": 132,
         "sentiment": "Negative"
       },
@@ -4063,17 +4063,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "50 k",
+        "text": "không hiểu",
         "value": 124,
         "sentiment": "Negative"
       },
       {
-        "text": "không hiểu",
-        "value": 123,
+        "text": "xong không",
+        "value": 124,
         "sentiment": "Negative"
       },
       {
-        "text": "xong không",
+        "text": "50 k",
         "value": 123,
         "sentiment": "Negative"
       },
@@ -4125,37 +4125,37 @@
     "all": [
       {
         "text": "chuyển tiền",
-        "value": 972,
+        "value": 976,
         "sentiment": "Negative"
       },
       {
         "text": "bị lỗi",
-        "value": 550,
+        "value": 553,
         "sentiment": "Negative"
       },
       {
         "text": "rất hài lòng",
-        "value": 547,
+        "value": 549,
         "sentiment": "Positive"
       },
       {
         "text": "quá tệ",
-        "value": 403,
+        "value": 406,
         "sentiment": "Negative"
       },
       {
         "text": "không đăng nhập",
-        "value": 391,
+        "value": 393,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 329,
+        "value": 331,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 307,
+        "value": 310,
         "sentiment": "Negative"
       },
       {
@@ -4170,17 +4170,17 @@
       },
       {
         "text": "rất thích",
-        "value": 241,
+        "value": 242,
         "sentiment": "Positive"
       },
       {
         "text": "tin nhắn",
-        "value": 190,
+        "value": 191,
         "sentiment": "Negative"
       },
       {
         "text": "lỗi không",
-        "value": 189,
+        "value": 190,
         "sentiment": "Negative"
       },
       {
@@ -4189,13 +4189,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "mãi không",
+        "value": 187,
+        "sentiment": "Negative"
+      },
+      {
         "text": "đăng nhập",
         "value": 187,
         "sentiment": "Negative"
       },
       {
-        "text": "mãi không",
-        "value": 185,
+        "text": "đăng nhập đc",
+        "value": 183,
         "sentiment": "Negative"
       },
       {
@@ -4204,23 +4209,18 @@
         "sentiment": "Positive"
       },
       {
-        "text": "đăng nhập đc",
-        "value": 182,
-        "sentiment": "Negative"
-      },
-      {
         "text": "tên đăng nhập",
-        "value": 180,
+        "value": 181,
         "sentiment": "Negative"
       },
       {
         "text": "k đc",
-        "value": 179,
+        "value": 180,
         "sentiment": "Negative"
       },
       {
         "text": "mỗi lần",
-        "value": 178,
+        "value": 180,
         "sentiment": "Negative"
       },
       {
@@ -4235,16 +4235,21 @@
       },
       {
         "text": "thông báo biến động",
-        "value": 159,
+        "value": 160,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 156,
+        "value": 158,
         "sentiment": "Negative"
       },
       {
         "text": "quá nhiều",
+        "value": 153,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "suốt ngày",
         "value": 152,
         "sentiment": "Negative"
       },
@@ -4264,11 +4269,6 @@
         "sentiment": "Negative"
       },
       {
-        "text": "suốt ngày",
-        "value": 148,
-        "sentiment": "Negative"
-      },
-      {
         "text": "cập nhật xong",
         "value": 147,
         "sentiment": "Negative"
@@ -4280,7 +4280,7 @@
       },
       {
         "text": "nhận tiền",
-        "value": 142,
+        "value": 143,
         "sentiment": "Negative"
       },
       {
@@ -4290,22 +4290,22 @@
       },
       {
         "text": "rất tiện lợi",
-        "value": 136,
+        "value": 137,
         "sentiment": "Positive"
       },
       {
         "text": "vẫn không",
-        "value": 136,
+        "value": 137,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cứ báo",
+        "value": 135,
         "sentiment": "Negative"
       },
       {
         "text": "nhập đúng",
         "value": 135,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "cứ báo",
-        "value": 134,
         "sentiment": "Negative"
       },
       {
@@ -4330,12 +4330,7 @@
       },
       {
         "text": "mất thời gian",
-        "value": 121,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "gửi tin",
-        "value": 119,
+        "value": 122,
         "sentiment": "Negative"
       },
       {
@@ -4344,8 +4339,13 @@
         "sentiment": "Negative"
       },
       {
+        "text": "gửi tin",
+        "value": 118,
+        "sentiment": "Negative"
+      },
+      {
         "text": "người ta",
-        "value": 117,
+        "value": 118,
         "sentiment": "Negative"
       },
       {
@@ -4359,6 +4359,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "không biết",
+        "value": 109,
+        "sentiment": "Negative"
+      },
+      {
         "text": "nhiều lần",
         "value": 109,
         "sentiment": "Negative"
@@ -4366,11 +4371,6 @@
       {
         "text": "số tiền",
         "value": 109,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "không biết",
-        "value": 107,
         "sentiment": "Negative"
       },
       {
@@ -4384,6 +4384,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tạo tài khoản",
+        "value": 103,
+        "sentiment": "Negative"
+      },
+      {
         "text": "cứ bị",
         "value": 101,
         "sentiment": "Negative"
@@ -4394,8 +4399,8 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tài khoản",
-        "value": 100,
+        "text": "báo sai",
+        "value": 97,
         "sentiment": "Negative"
       },
       {
@@ -4404,7 +4409,7 @@
         "sentiment": "Negative"
       },
       {
-        "text": "báo sai",
+        "text": "không nhận",
         "value": 96,
         "sentiment": "Negative"
       },
@@ -4419,17 +4424,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không nhận",
+        "text": "sao không",
         "value": 95,
         "sentiment": "Negative"
       },
       {
         "text": "rất lâu",
-        "value": 94,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao không",
         "value": 94,
         "sentiment": "Negative"
       },
@@ -4444,6 +4444,16 @@
         "sentiment": "Negative"
       },
       {
+        "text": "lỗi ko",
+        "value": 93,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "nhưng vẫn",
+        "value": 93,
+        "sentiment": "Negative"
+      },
+      {
         "text": "chụp ảnh",
         "value": 92,
         "sentiment": "Negative"
@@ -4454,23 +4464,13 @@
         "sentiment": "Positive"
       },
       {
-        "text": "lỗi ko",
-        "value": 92,
-        "sentiment": "Negative"
-      },
-      {
         "text": "rất hay",
         "value": 92,
         "sentiment": "Positive"
       },
       {
-        "text": "nhưng vẫn",
-        "value": 91,
-        "sentiment": "Negative"
-      },
-      {
         "text": "tiền không",
-        "value": 90,
+        "value": 91,
         "sentiment": "Negative"
       },
       {
@@ -4489,18 +4489,18 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko dc",
-        "value": 85,
-        "sentiment": "Negative"
-      },
-      {
         "text": "rat tot",
-        "value": 85,
+        "value": 86,
         "sentiment": "Positive"
       },
       {
+        "text": "ko dc",
+        "value": 84,
+        "sentiment": "Negative"
+      },
+      {
         "text": "vẫn ko",
-        "value": 85,
+        "value": 84,
         "sentiment": "Negative"
       },
       {
@@ -4509,12 +4509,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "hay bị lỗi",
-        "value": 82,
+        "text": "ko thấy",
+        "value": 83,
         "sentiment": "Negative"
       },
       {
-        "text": "ko thấy",
+        "text": "hay bị lỗi",
         "value": 82,
         "sentiment": "Negative"
       },
@@ -4524,27 +4524,27 @@
         "sentiment": "Negative"
       },
       {
-        "text": "gửi tin nhắn",
+        "text": "hay lỗi",
         "value": 81,
         "sentiment": "Negative"
       },
       {
-        "text": "hay lỗi",
-        "value": 80,
+        "text": "lỗi đăng nhập",
+        "value": 81,
         "sentiment": "Negative"
       },
       {
-        "text": "lỗi đăng nhập",
+        "text": "sao vậy",
+        "value": 81,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "gửi tin nhắn",
         "value": 80,
         "sentiment": "Negative"
       },
       {
         "text": "quên mật khẩu",
-        "value": 80,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao vậy",
         "value": 80,
         "sentiment": "Negative"
       },
@@ -4555,7 +4555,7 @@
       },
       {
         "text": "xong không",
-        "value": 79,
+        "value": 80,
         "sentiment": "Negative"
       },
       {
@@ -4590,12 +4590,17 @@
       },
       {
         "text": "mở tk",
-        "value": 75,
+        "value": 76,
         "sentiment": "Negative"
       },
       {
         "text": "không thể đăng nhập",
-        "value": 73,
+        "value": 74,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "tạo tk",
+        "value": 74,
         "sentiment": "Negative"
       },
       {
@@ -4609,55 +4614,50 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tk",
-        "value": 72,
-        "sentiment": "Negative"
-      },
-      {
         "text": "gần đây",
         "value": 71,
         "sentiment": "Negative"
       },
       {
         "text": "k đăng nhập",
-        "value": 70,
+        "value": 71,
         "sentiment": "Negative"
       }
     ],
     "retail": [
       {
         "text": "chuyển tiền",
-        "value": 967,
+        "value": 971,
         "sentiment": "Negative"
       },
       {
         "text": "bị lỗi",
-        "value": 547,
+        "value": 550,
         "sentiment": "Negative"
       },
       {
         "text": "rất hài lòng",
-        "value": 543,
+        "value": 545,
         "sentiment": "Positive"
       },
       {
         "text": "quá tệ",
-        "value": 401,
+        "value": 403,
         "sentiment": "Negative"
       },
       {
         "text": "không đăng nhập",
-        "value": 387,
+        "value": 389,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 327,
+        "value": 329,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 304,
+        "value": 307,
         "sentiment": "Negative"
       },
       {
@@ -4672,17 +4672,22 @@
       },
       {
         "text": "rất thích",
-        "value": 238,
+        "value": 239,
         "sentiment": "Positive"
       },
       {
         "text": "tin nhắn",
-        "value": 190,
+        "value": 191,
         "sentiment": "Negative"
       },
       {
         "text": "ko đăng nhập",
         "value": 188,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "mãi không",
+        "value": 187,
         "sentiment": "Negative"
       },
       {
@@ -4692,12 +4697,12 @@
       },
       {
         "text": "lỗi không",
-        "value": 185,
+        "value": 186,
         "sentiment": "Negative"
       },
       {
-        "text": "mãi không",
-        "value": 185,
+        "text": "đăng nhập đc",
+        "value": 181,
         "sentiment": "Negative"
       },
       {
@@ -4706,12 +4711,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "đăng nhập đc",
-        "value": 180,
+        "text": "k đc",
+        "value": 179,
         "sentiment": "Negative"
       },
       {
-        "text": "k đc",
+        "text": "mỗi lần",
         "value": 178,
         "sentiment": "Negative"
       },
@@ -4719,11 +4724,6 @@
         "text": "dễ sử dụng",
         "value": 177,
         "sentiment": "Positive"
-      },
-      {
-        "text": "mỗi lần",
-        "value": 176,
-        "sentiment": "Negative"
       },
       {
         "text": "rất tuyệt vời",
@@ -4737,16 +4737,21 @@
       },
       {
         "text": "thông báo biến động",
-        "value": 159,
+        "value": 160,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 155,
+        "value": 157,
         "sentiment": "Negative"
       },
       {
         "text": "quá nhiều",
+        "value": 152,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "suốt ngày",
         "value": 151,
         "sentiment": "Negative"
       },
@@ -4766,11 +4771,6 @@
         "sentiment": "Negative"
       },
       {
-        "text": "suốt ngày",
-        "value": 147,
-        "sentiment": "Negative"
-      },
-      {
         "text": "cập nhật xong",
         "value": 145,
         "sentiment": "Negative"
@@ -4782,7 +4782,7 @@
       },
       {
         "text": "nhận tiền",
-        "value": 142,
+        "value": 143,
         "sentiment": "Negative"
       },
       {
@@ -4792,7 +4792,7 @@
       },
       {
         "text": "vẫn không",
-        "value": 135,
+        "value": 136,
         "sentiment": "Negative"
       },
       {
@@ -4806,14 +4806,14 @@
         "sentiment": "Negative"
       },
       {
+        "text": "rất tiện lợi",
+        "value": 132,
+        "sentiment": "Positive"
+      },
+      {
         "text": "rất nhiều",
         "value": 131,
         "sentiment": "Negative"
-      },
-      {
-        "text": "rất tiện lợi",
-        "value": 131,
-        "sentiment": "Positive"
       },
       {
         "text": "không thông báo",
@@ -4827,7 +4827,7 @@
       },
       {
         "text": "mất thời gian",
-        "value": 120,
+        "value": 121,
         "sentiment": "Negative"
       },
       {
@@ -4837,7 +4837,7 @@
       },
       {
         "text": "gửi tin",
-        "value": 119,
+        "value": 118,
         "sentiment": "Negative"
       },
       {
@@ -4847,7 +4847,7 @@
       },
       {
         "text": "người ta",
-        "value": 117,
+        "value": 118,
         "sentiment": "Negative"
       },
       {
@@ -4861,6 +4861,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "không biết",
+        "value": 109,
+        "sentiment": "Negative"
+      },
+      {
         "text": "nhiều lần",
         "value": 109,
         "sentiment": "Negative"
@@ -4871,17 +4876,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không biết",
-        "value": 107,
-        "sentiment": "Negative"
-      },
-      {
         "text": "lỗi liên tục",
         "value": 105,
         "sentiment": "Negative"
       },
       {
         "text": "mãi ko",
+        "value": 102,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "tạo tài khoản",
         "value": 102,
         "sentiment": "Negative"
       },
@@ -4896,13 +4901,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tài khoản",
-        "value": 99,
+        "text": "không đc",
+        "value": 97,
         "sentiment": "Negative"
       },
       {
-        "text": "không đc",
-        "value": 97,
+        "text": "không nhận",
+        "value": 96,
         "sentiment": "Negative"
       },
       {
@@ -4912,11 +4917,6 @@
       },
       {
         "text": "báo sai",
-        "value": 95,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "không nhận",
         "value": 95,
         "sentiment": "Negative"
       },
@@ -4941,12 +4941,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "lỗi ko",
+        "value": 93,
+        "sentiment": "Negative"
+      },
+      {
         "text": "gọn lẹ",
         "value": 92,
         "sentiment": "Positive"
       },
       {
-        "text": "lỗi ko",
+        "text": "nhưng vẫn",
         "value": 92,
         "sentiment": "Negative"
       },
@@ -4956,18 +4961,18 @@
         "sentiment": "Positive"
       },
       {
+        "text": "sao không",
+        "value": 92,
+        "sentiment": "Negative"
+      },
+      {
         "text": "chụp ảnh",
         "value": 91,
         "sentiment": "Negative"
       },
       {
-        "text": "nhưng vẫn",
-        "value": 91,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao không",
-        "value": 91,
+        "text": "tiền không",
+        "value": 90,
         "sentiment": "Negative"
       },
       {
@@ -4981,28 +4986,28 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tiền không",
-        "value": 89,
-        "sentiment": "Negative"
-      },
-      {
         "text": "nhưng không",
         "value": 87,
         "sentiment": "Negative"
       },
       {
-        "text": "ko dc",
-        "value": 85,
-        "sentiment": "Negative"
-      },
-      {
         "text": "rat tot",
-        "value": 84,
+        "value": 85,
         "sentiment": "Positive"
       },
       {
-        "text": "vẫn ko",
+        "text": "ko dc",
         "value": 84,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "ko thấy",
+        "value": 83,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "vẫn ko",
+        "value": 83,
         "sentiment": "Negative"
       },
       {
@@ -5016,33 +5021,28 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko thấy",
-        "value": 82,
-        "sentiment": "Negative"
-      },
-      {
         "text": "bị trừ",
         "value": 81,
         "sentiment": "Negative"
       },
       {
-        "text": "gửi tin nhắn",
+        "text": "lỗi đăng nhập",
         "value": 81,
         "sentiment": "Negative"
       },
       {
-        "text": "lỗi đăng nhập",
-        "value": 80,
+        "text": "sao vậy",
+        "value": 81,
         "sentiment": "Negative"
       },
       {
-        "text": "sao vậy",
+        "text": "gửi tin nhắn",
         "value": 80,
         "sentiment": "Negative"
       },
       {
         "text": "hay lỗi",
-        "value": 79,
+        "value": 80,
         "sentiment": "Negative"
       },
       {
@@ -5051,12 +5051,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko đăng nhập đc",
-        "value": 78,
+        "text": "xong không",
+        "value": 79,
         "sentiment": "Negative"
       },
       {
-        "text": "xong không",
+        "text": "ko đăng nhập đc",
         "value": 78,
         "sentiment": "Negative"
       },
@@ -5081,7 +5081,17 @@
         "sentiment": "Negative"
       },
       {
+        "text": "không thể đăng nhập",
+        "value": 74,
+        "sentiment": "Negative"
+      },
+      {
         "text": "lỗi hoài",
+        "value": 74,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "mở tk",
         "value": 74,
         "sentiment": "Negative"
       },
@@ -5091,13 +5101,8 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không thể đăng nhập",
-        "value": 73,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "mở tk",
-        "value": 73,
+        "text": "tạo tk",
+        "value": 74,
         "sentiment": "Negative"
       },
       {
@@ -5111,18 +5116,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tk",
-        "value": 72,
-        "sentiment": "Negative"
-      },
-      {
         "text": "gần đây",
         "value": 71,
         "sentiment": "Negative"
       },
       {
         "text": "k đăng nhập",
-        "value": 70,
+        "value": 71,
         "sentiment": "Negative"
       }
     ],
@@ -5183,6 +5183,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "quá tệ",
+        "value": 3,
+        "sentiment": "Negative"
+      },
+      {
         "text": "rất hữu ích",
         "value": 3,
         "sentiment": "Positive"
@@ -5218,7 +5223,7 @@
     "all": [
       {
         "text": "chuyển tiền",
-        "value": 5990,
+        "value": 5996,
         "sentiment": "Negative"
       },
       {
@@ -5228,17 +5233,17 @@
       },
       {
         "text": "ko đc",
-        "value": 1667,
+        "value": 1669,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 1284,
+        "value": 1285,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 1150,
+        "value": 1153,
         "sentiment": "Negative"
       },
       {
@@ -5248,7 +5253,7 @@
       },
       {
         "text": "rất hài lòng",
-        "value": 871,
+        "value": 873,
         "sentiment": "Positive"
       },
       {
@@ -5268,7 +5273,7 @@
       },
       {
         "text": "k đc",
-        "value": 799,
+        "value": 800,
         "sentiment": "Negative"
       },
       {
@@ -5283,7 +5288,7 @@
       },
       {
         "text": "biến động số dư",
-        "value": 728,
+        "value": 732,
         "sentiment": "Negative"
       },
       {
@@ -5293,7 +5298,7 @@
       },
       {
         "text": "5 sao",
-        "value": 666,
+        "value": 668,
         "sentiment": "Positive"
       },
       {
@@ -5323,7 +5328,7 @@
       },
       {
         "text": "thiết bị cũ",
-        "value": 597,
+        "value": 598,
         "sentiment": "Negative"
       },
       {
@@ -5348,12 +5353,12 @@
       },
       {
         "text": "bị trừ",
-        "value": 577,
+        "value": 582,
         "sentiment": "Negative"
       },
       {
         "text": "nạp tiền",
-        "value": 557,
+        "value": 558,
         "sentiment": "Negative"
       },
       {
@@ -5383,12 +5388,12 @@
       },
       {
         "text": "1 sao",
-        "value": 506,
+        "value": 507,
         "sentiment": "Negative"
       },
       {
         "text": "người ta",
-        "value": 501,
+        "value": 503,
         "sentiment": "Negative"
       },
       {
@@ -5443,7 +5448,7 @@
       },
       {
         "text": "rất nhiều",
-        "value": 429,
+        "value": 430,
         "sentiment": "Negative"
       },
       {
@@ -5463,7 +5468,7 @@
       },
       {
         "text": "cứ bị",
-        "value": 415,
+        "value": 416,
         "sentiment": "Negative"
       },
       {
@@ -5543,7 +5548,7 @@
       },
       {
         "text": "ko đăng nhập",
-        "value": 372,
+        "value": 373,
         "sentiment": "Negative"
       },
       {
@@ -5557,18 +5562,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tạo tài khoản",
+        "value": 369,
+        "sentiment": "Negative"
+      },
+      {
         "text": "quét mã qr",
         "value": 368,
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tài khoản",
-        "value": 368,
-        "sentiment": "Negative"
-      },
-      {
         "text": "mất thời gian",
-        "value": 362,
+        "value": 363,
         "sentiment": "Negative"
       },
       {
@@ -5578,7 +5583,7 @@
       },
       {
         "text": "nhập đúng",
-        "value": 355,
+        "value": 356,
         "sentiment": "Negative"
       },
       {
@@ -5613,7 +5618,7 @@
       },
       {
         "text": "mãi ko",
-        "value": 347,
+        "value": 348,
         "sentiment": "Negative"
       },
       {
@@ -5628,18 +5633,18 @@
       },
       {
         "text": "bị trừ tiền",
-        "value": 335,
+        "value": 337,
         "sentiment": "Negative"
+      },
+      {
+        "text": "rất tuyệt vời",
+        "value": 330,
+        "sentiment": "Positive"
       },
       {
         "text": "rất tệ",
         "value": 330,
         "sentiment": "Negative"
-      },
-      {
-        "text": "rất tuyệt vời",
-        "value": 329,
-        "sentiment": "Positive"
       },
       {
         "text": "rất hay",
@@ -5692,18 +5697,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "thông báo biến động",
+        "value": 311,
+        "sentiment": "Negative"
+      },
+      {
         "text": "số điện thoại",
         "value": 309,
         "sentiment": "Negative"
       },
       {
-        "text": "thông báo biến động",
-        "value": 309,
-        "sentiment": "Negative"
-      },
-      {
         "text": "rất tiện lợi",
-        "value": 307,
+        "value": 306,
         "sentiment": "Positive"
       },
       {
@@ -5713,14 +5718,14 @@
       },
       {
         "text": "trên thiết bị",
-        "value": 302,
+        "value": 303,
         "sentiment": "Negative"
       }
     ],
     "retail": [
       {
         "text": "chuyển tiền",
-        "value": 5987,
+        "value": 5993,
         "sentiment": "Negative"
       },
       {
@@ -5730,17 +5735,17 @@
       },
       {
         "text": "ko đc",
-        "value": 1663,
+        "value": 1665,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 1265,
+        "value": 1266,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 1150,
+        "value": 1153,
         "sentiment": "Negative"
       },
       {
@@ -5750,7 +5755,7 @@
       },
       {
         "text": "rất hài lòng",
-        "value": 871,
+        "value": 873,
         "sentiment": "Positive"
       },
       {
@@ -5770,7 +5775,7 @@
       },
       {
         "text": "k đc",
-        "value": 799,
+        "value": 800,
         "sentiment": "Negative"
       },
       {
@@ -5785,7 +5790,7 @@
       },
       {
         "text": "biến động số dư",
-        "value": 728,
+        "value": 732,
         "sentiment": "Negative"
       },
       {
@@ -5795,7 +5800,7 @@
       },
       {
         "text": "5 sao",
-        "value": 665,
+        "value": 667,
         "sentiment": "Positive"
       },
       {
@@ -5825,7 +5830,7 @@
       },
       {
         "text": "thiết bị cũ",
-        "value": 597,
+        "value": 598,
         "sentiment": "Negative"
       },
       {
@@ -5850,12 +5855,12 @@
       },
       {
         "text": "bị trừ",
-        "value": 577,
+        "value": 582,
         "sentiment": "Negative"
       },
       {
         "text": "nạp tiền",
-        "value": 557,
+        "value": 558,
         "sentiment": "Negative"
       },
       {
@@ -5885,12 +5890,12 @@
       },
       {
         "text": "1 sao",
-        "value": 506,
+        "value": 507,
         "sentiment": "Negative"
       },
       {
         "text": "người ta",
-        "value": 499,
+        "value": 501,
         "sentiment": "Negative"
       },
       {
@@ -5945,7 +5950,7 @@
       },
       {
         "text": "rất nhiều",
-        "value": 428,
+        "value": 429,
         "sentiment": "Negative"
       },
       {
@@ -5965,7 +5970,7 @@
       },
       {
         "text": "cứ bị",
-        "value": 415,
+        "value": 416,
         "sentiment": "Negative"
       },
       {
@@ -6045,7 +6050,7 @@
       },
       {
         "text": "ko đăng nhập",
-        "value": 372,
+        "value": 373,
         "sentiment": "Negative"
       },
       {
@@ -6059,13 +6064,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tạo tài khoản",
+        "value": 369,
+        "sentiment": "Negative"
+      },
+      {
         "text": "quét mã qr",
         "value": 368,
         "sentiment": "Negative"
       },
       {
-        "text": "tạo tài khoản",
-        "value": 368,
+        "text": "nhập đúng",
+        "value": 356,
         "sentiment": "Negative"
       },
       {
@@ -6074,13 +6084,8 @@
         "sentiment": "Negative"
       },
       {
-        "text": "nhập đúng",
-        "value": 355,
-        "sentiment": "Negative"
-      },
-      {
         "text": "mất thời gian",
-        "value": 354,
+        "value": 355,
         "sentiment": "Negative"
       },
       {
@@ -6115,7 +6120,7 @@
       },
       {
         "text": "mãi ko",
-        "value": 347,
+        "value": 348,
         "sentiment": "Negative"
       },
       {
@@ -6130,12 +6135,12 @@
       },
       {
         "text": "bị trừ tiền",
-        "value": 335,
+        "value": 337,
         "sentiment": "Negative"
       },
       {
         "text": "rất tuyệt vời",
-        "value": 329,
+        "value": 330,
         "sentiment": "Positive"
       },
       {
@@ -6194,19 +6199,14 @@
         "sentiment": "Negative"
       },
       {
+        "text": "thông báo biến động",
+        "value": 311,
+        "sentiment": "Negative"
+      },
+      {
         "text": "số điện thoại",
         "value": 309,
         "sentiment": "Negative"
-      },
-      {
-        "text": "thông báo biến động",
-        "value": 309,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "rất tiện lợi",
-        "value": 306,
-        "sentiment": "Positive"
       },
       {
         "text": "chuyển khoản",
@@ -6214,8 +6214,13 @@
         "sentiment": "Negative"
       },
       {
+        "text": "rất tiện lợi",
+        "value": 305,
+        "sentiment": "Positive"
+      },
+      {
         "text": "trên thiết bị",
-        "value": 302,
+        "value": 303,
         "sentiment": "Negative"
       }
     ],
@@ -6331,42 +6336,42 @@
     "all": [
       {
         "text": "chuyển tiền",
-        "value": 13701,
+        "value": 13715,
         "sentiment": "Negative"
       },
       {
         "text": "bị lỗi",
-        "value": 6198,
+        "value": 6202,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 4956,
+        "value": 4962,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 3464,
+        "value": 3470,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 3222,
+        "value": 3227,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 2553,
+        "value": 2558,
         "sentiment": "Negative"
       },
       {
         "text": "không đăng nhập",
-        "value": 2366,
+        "value": 2369,
         "sentiment": "Negative"
       },
       {
         "text": "rất hài lòng",
-        "value": 2201,
+        "value": 2205,
         "sentiment": "Positive"
       },
       {
@@ -6376,37 +6381,37 @@
       },
       {
         "text": "suốt ngày",
-        "value": 1930,
+        "value": 1934,
         "sentiment": "Negative"
       },
       {
         "text": "dễ sử dụng",
-        "value": 1885,
+        "value": 1886,
         "sentiment": "Positive"
       },
       {
         "text": "lỗi không",
-        "value": 1786,
+        "value": 1789,
         "sentiment": "Negative"
       },
       {
         "text": "k đc",
-        "value": 1783,
+        "value": 1787,
         "sentiment": "Negative"
       },
       {
         "text": "nhận tiền",
-        "value": 1777,
+        "value": 1778,
         "sentiment": "Negative"
       },
       {
         "text": "tiền không",
-        "value": 1583,
+        "value": 1584,
         "sentiment": "Negative"
       },
       {
         "text": "biến động số dư",
-        "value": 1579,
+        "value": 1582,
         "sentiment": "Negative"
       },
       {
@@ -6416,47 +6421,47 @@
       },
       {
         "text": "người ta",
-        "value": 1572,
+        "value": 1575,
         "sentiment": "Negative"
       },
       {
         "text": "hay bị",
-        "value": 1537,
+        "value": 1538,
         "sentiment": "Negative"
       },
       {
         "text": "1 sao",
-        "value": 1523,
+        "value": 1524,
         "sentiment": "Negative"
       },
       {
         "text": "phiên bản mới",
-        "value": 1458,
+        "value": 1461,
         "sentiment": "Negative"
       },
       {
         "text": "mỗi lần",
-        "value": 1447,
+        "value": 1449,
         "sentiment": "Negative"
       },
       {
         "text": "lỗi liên tục",
-        "value": 1436,
+        "value": 1438,
         "sentiment": "Negative"
       },
       {
         "text": "không nhận",
-        "value": 1424,
+        "value": 1426,
         "sentiment": "Negative"
       },
       {
         "text": "bị trừ",
-        "value": 1406,
+        "value": 1410,
         "sentiment": "Negative"
       },
       {
         "text": "vẫn không",
-        "value": 1392,
+        "value": 1394,
         "sentiment": "Negative"
       },
       {
@@ -6466,32 +6471,32 @@
       },
       {
         "text": "5 sao",
-        "value": 1330,
+        "value": 1332,
         "sentiment": "Positive"
       },
       {
         "text": "cứ báo",
-        "value": 1324,
+        "value": 1328,
         "sentiment": "Negative"
       },
       {
         "text": "cứ bị",
-        "value": 1323,
+        "value": 1322,
         "sentiment": "Negative"
       },
       {
         "text": "đăng nhập",
-        "value": 1323,
+        "value": 1321,
         "sentiment": "Negative"
       },
       {
         "text": "rất nhiều",
-        "value": 1314,
+        "value": 1315,
         "sentiment": "Negative"
       },
       {
         "text": "lúc cần",
-        "value": 1247,
+        "value": 1246,
         "sentiment": "Negative"
       },
       {
@@ -6500,23 +6505,23 @@
         "sentiment": "Negative"
       },
       {
-        "text": "hay lỗi",
-        "value": 1190,
+        "text": "ko đăng nhập",
+        "value": 1193,
         "sentiment": "Negative"
       },
       {
-        "text": "ko đăng nhập",
-        "value": 1189,
+        "text": "hay lỗi",
+        "value": 1192,
         "sentiment": "Negative"
       },
       {
         "text": "gọi tổng đài",
-        "value": 1180,
+        "value": 1183,
         "sentiment": "Negative"
       },
       {
         "text": "mất thời gian",
-        "value": 1167,
+        "value": 1170,
         "sentiment": "Negative"
       },
       {
@@ -6531,22 +6536,22 @@
       },
       {
         "text": "ko chuyển",
-        "value": 1107,
+        "value": 1108,
         "sentiment": "Negative"
       },
       {
         "text": "đăng nhập đc",
-        "value": 1105,
+        "value": 1107,
         "sentiment": "Negative"
       },
       {
         "text": "bị văng",
-        "value": 1104,
+        "value": 1106,
         "sentiment": "Negative"
       },
       {
         "text": "vân tay",
-        "value": 1095,
+        "value": 1098,
         "sentiment": "Negative"
       },
       {
@@ -6556,7 +6561,12 @@
       },
       {
         "text": "máy cũ",
-        "value": 1077,
+        "value": 1076,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "mãi không",
+        "value": 1072,
         "sentiment": "Negative"
       },
       {
@@ -6565,33 +6575,28 @@
         "sentiment": "Negative"
       },
       {
-        "text": "mãi không",
-        "value": 1069,
-        "sentiment": "Negative"
-      },
-      {
         "text": "lỗi ko",
-        "value": 1064,
+        "value": 1065,
         "sentiment": "Negative"
       },
       {
         "text": "rồi vẫn",
-        "value": 1054,
+        "value": 1055,
         "sentiment": "Negative"
       },
       {
         "text": "bắt cập nhật",
-        "value": 1039,
+        "value": 1041,
         "sentiment": "Negative"
       },
       {
         "text": "không biết",
-        "value": 1034,
+        "value": 1036,
         "sentiment": "Negative"
       },
       {
         "text": "nhập đúng",
-        "value": 1032,
+        "value": 1035,
         "sentiment": "Negative"
       },
       {
@@ -6600,12 +6605,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "hay bị lỗi",
-        "value": 1019,
+        "text": "vẫn chưa",
+        "value": 1020,
         "sentiment": "Negative"
       },
       {
-        "text": "vẫn chưa",
+        "text": "hay bị lỗi",
         "value": 1019,
         "sentiment": "Negative"
       },
@@ -6616,7 +6621,7 @@
       },
       {
         "text": "50 k",
-        "value": 1007,
+        "value": 1009,
         "sentiment": "Negative"
       },
       {
@@ -6626,7 +6631,7 @@
       },
       {
         "text": "nạp tiền",
-        "value": 976,
+        "value": 977,
         "sentiment": "Negative"
       },
       {
@@ -6641,7 +6646,7 @@
       },
       {
         "text": "sao không",
-        "value": 944,
+        "value": 948,
         "sentiment": "Negative"
       },
       {
@@ -6656,12 +6661,12 @@
       },
       {
         "text": "tiền ko",
-        "value": 919,
+        "value": 921,
         "sentiment": "Negative"
       },
       {
         "text": "ngày lỗi",
-        "value": 892,
+        "value": 893,
         "sentiment": "Negative"
       },
       {
@@ -6671,12 +6676,12 @@
       },
       {
         "text": "rất tuyệt vời",
-        "value": 874,
+        "value": 877,
         "sentiment": "Positive"
       },
       {
         "text": "tiền tài khoản",
-        "value": 868,
+        "value": 870,
         "sentiment": "Negative"
       },
       {
@@ -6705,13 +6710,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "nhưng vẫn",
+        "value": 807,
+        "sentiment": "Negative"
+      },
+      {
         "text": "chuyển đc",
         "value": 806,
         "sentiment": "Negative"
       },
       {
-        "text": "nhưng vẫn",
-        "value": 805,
+        "text": "tin nhắn",
+        "value": 802,
         "sentiment": "Negative"
       },
       {
@@ -6720,38 +6730,33 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tin nhắn",
-        "value": 800,
-        "sentiment": "Negative"
-      },
-      {
         "text": "trên thiết bị",
-        "value": 796,
+        "value": 797,
         "sentiment": "Negative"
       },
       {
         "text": "ko nhận",
-        "value": 792,
+        "value": 793,
         "sentiment": "Negative"
       },
       {
         "text": "toàn lỗi",
-        "value": 787,
+        "value": 788,
         "sentiment": "Negative"
       },
       {
         "text": "quét qr",
-        "value": 774,
+        "value": 775,
         "sentiment": "Negative"
       },
       {
         "text": "báo sai",
-        "value": 772,
+        "value": 773,
         "sentiment": "Negative"
       },
       {
         "text": "mãi ko",
-        "value": 769,
+        "value": 770,
         "sentiment": "Negative"
       },
       {
@@ -6761,7 +6766,7 @@
       },
       {
         "text": "thiết bị cũ",
-        "value": 748,
+        "value": 749,
         "sentiment": "Negative"
       },
       {
@@ -6771,7 +6776,7 @@
       },
       {
         "text": "rất hay",
-        "value": 744,
+        "value": 743,
         "sentiment": "Negative"
       },
       {
@@ -6780,18 +6785,23 @@
         "sentiment": "Negative"
       },
       {
+        "text": "thông báo biến động",
+        "value": 740,
+        "sentiment": "Negative"
+      },
+      {
         "text": "không thông báo",
-        "value": 737,
+        "value": 739,
         "sentiment": "Negative"
       },
       {
         "text": "vẫn ko",
-        "value": 737,
+        "value": 736,
         "sentiment": "Negative"
       },
       {
-        "text": "thông báo biến động",
-        "value": 735,
+        "text": "ko dc",
+        "value": 734,
         "sentiment": "Negative"
       },
       {
@@ -6800,23 +6810,18 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko dc",
-        "value": 731,
-        "sentiment": "Negative"
-      },
-      {
         "text": "cập nhật phiên bản",
-        "value": 728,
+        "value": 730,
         "sentiment": "Negative"
       },
       {
         "text": "ko thấy",
-        "value": 726,
+        "value": 728,
         "sentiment": "Negative"
       },
       {
         "text": "bị trừ tiền",
-        "value": 725,
+        "value": 727,
         "sentiment": "Negative"
       },
       {
@@ -6826,49 +6831,49 @@
       },
       {
         "text": "sao ko",
-        "value": 717,
+        "value": 718,
         "sentiment": "Negative"
       }
     ],
     "retail": [
       {
         "text": "chuyển tiền",
-        "value": 13679,
+        "value": 13693,
         "sentiment": "Negative"
       },
       {
         "text": "bị lỗi",
-        "value": 6183,
+        "value": 6187,
         "sentiment": "Negative"
       },
       {
         "text": "quá tệ",
-        "value": 4928,
+        "value": 4933,
         "sentiment": "Negative"
       },
       {
         "text": "ko đc",
-        "value": 3456,
+        "value": 3462,
         "sentiment": "Negative"
       },
       {
         "text": "trừ tiền",
-        "value": 3221,
+        "value": 3226,
         "sentiment": "Negative"
       },
       {
         "text": "báo lỗi",
-        "value": 2545,
+        "value": 2550,
         "sentiment": "Negative"
       },
       {
         "text": "không đăng nhập",
-        "value": 2354,
+        "value": 2357,
         "sentiment": "Negative"
       },
       {
         "text": "rất hài lòng",
-        "value": 2196,
+        "value": 2200,
         "sentiment": "Positive"
       },
       {
@@ -6878,7 +6883,7 @@
       },
       {
         "text": "suốt ngày",
-        "value": 1923,
+        "value": 1927,
         "sentiment": "Negative"
       },
       {
@@ -6888,22 +6893,27 @@
       },
       {
         "text": "k đc",
-        "value": 1781,
+        "value": 1785,
         "sentiment": "Negative"
       },
       {
         "text": "lỗi không",
-        "value": 1779,
+        "value": 1782,
         "sentiment": "Negative"
       },
       {
         "text": "nhận tiền",
-        "value": 1777,
+        "value": 1778,
         "sentiment": "Negative"
       },
       {
         "text": "tiền không",
-        "value": 1582,
+        "value": 1583,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "biến động số dư",
+        "value": 1577,
         "sentiment": "Negative"
       },
       {
@@ -6912,53 +6922,48 @@
         "sentiment": "Negative"
       },
       {
-        "text": "biến động số dư",
-        "value": 1574,
-        "sentiment": "Negative"
-      },
-      {
         "text": "người ta",
-        "value": 1570,
+        "value": 1573,
         "sentiment": "Negative"
       },
       {
         "text": "hay bị",
-        "value": 1535,
+        "value": 1536,
         "sentiment": "Negative"
       },
       {
         "text": "1 sao",
-        "value": 1521,
+        "value": 1522,
         "sentiment": "Negative"
       },
       {
         "text": "phiên bản mới",
-        "value": 1455,
+        "value": 1458,
         "sentiment": "Negative"
       },
       {
         "text": "mỗi lần",
-        "value": 1441,
+        "value": 1443,
         "sentiment": "Negative"
       },
       {
         "text": "lỗi liên tục",
-        "value": 1434,
+        "value": 1436,
         "sentiment": "Negative"
       },
       {
         "text": "không nhận",
-        "value": 1423,
+        "value": 1425,
         "sentiment": "Negative"
       },
       {
         "text": "bị trừ",
-        "value": 1405,
+        "value": 1409,
         "sentiment": "Negative"
       },
       {
         "text": "vẫn không",
-        "value": 1390,
+        "value": 1392,
         "sentiment": "Negative"
       },
       {
@@ -6968,32 +6973,32 @@
       },
       {
         "text": "5 sao",
-        "value": 1328,
+        "value": 1330,
         "sentiment": "Positive"
       },
       {
-        "text": "đăng nhập",
-        "value": 1321,
+        "text": "cứ báo",
+        "value": 1322,
         "sentiment": "Negative"
       },
       {
         "text": "cứ bị",
-        "value": 1320,
+        "value": 1319,
         "sentiment": "Negative"
       },
       {
-        "text": "cứ báo",
+        "text": "đăng nhập",
         "value": 1319,
         "sentiment": "Negative"
       },
       {
         "text": "rất nhiều",
-        "value": 1311,
+        "value": 1312,
         "sentiment": "Negative"
       },
       {
         "text": "lúc cần",
-        "value": 1244,
+        "value": 1243,
         "sentiment": "Negative"
       },
       {
@@ -7002,23 +7007,23 @@
         "sentiment": "Negative"
       },
       {
-        "text": "hay lỗi",
-        "value": 1188,
+        "text": "ko đăng nhập",
+        "value": 1192,
         "sentiment": "Negative"
       },
       {
-        "text": "ko đăng nhập",
-        "value": 1188,
+        "text": "hay lỗi",
+        "value": 1189,
         "sentiment": "Negative"
       },
       {
         "text": "gọi tổng đài",
-        "value": 1175,
+        "value": 1176,
         "sentiment": "Negative"
       },
       {
         "text": "mất thời gian",
-        "value": 1151,
+        "value": 1154,
         "sentiment": "Negative"
       },
       {
@@ -7032,28 +7037,23 @@
         "sentiment": "Negative"
       },
       {
-        "text": "ko chuyển",
-        "value": 1105,
+        "text": "bị văng",
+        "value": 1106,
         "sentiment": "Negative"
       },
       {
-        "text": "bị văng",
-        "value": 1104,
+        "text": "ko chuyển",
+        "value": 1106,
         "sentiment": "Negative"
       },
       {
         "text": "đăng nhập đc",
-        "value": 1103,
+        "value": 1105,
         "sentiment": "Negative"
       },
       {
         "text": "vân tay",
-        "value": 1088,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "máy cũ",
-        "value": 1077,
+        "value": 1091,
         "sentiment": "Negative"
       },
       {
@@ -7062,38 +7062,43 @@
         "sentiment": "Negative"
       },
       {
+        "text": "máy cũ",
+        "value": 1076,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "mãi không",
+        "value": 1071,
+        "sentiment": "Negative"
+      },
+      {
         "text": "rất tệ",
         "value": 1069,
         "sentiment": "Negative"
       },
       {
-        "text": "mãi không",
-        "value": 1068,
-        "sentiment": "Negative"
-      },
-      {
         "text": "lỗi ko",
-        "value": 1061,
+        "value": 1062,
         "sentiment": "Negative"
       },
       {
         "text": "rồi vẫn",
-        "value": 1053,
+        "value": 1054,
         "sentiment": "Negative"
       },
       {
         "text": "bắt cập nhật",
-        "value": 1036,
+        "value": 1038,
         "sentiment": "Negative"
       },
       {
         "text": "không biết",
-        "value": 1033,
+        "value": 1035,
         "sentiment": "Negative"
       },
       {
         "text": "nhập đúng",
-        "value": 1030,
+        "value": 1033,
         "sentiment": "Negative"
       },
       {
@@ -7108,7 +7113,7 @@
       },
       {
         "text": "vẫn chưa",
-        "value": 1015,
+        "value": 1016,
         "sentiment": "Negative"
       },
       {
@@ -7118,7 +7123,7 @@
       },
       {
         "text": "50 k",
-        "value": 1007,
+        "value": 1009,
         "sentiment": "Negative"
       },
       {
@@ -7128,7 +7133,7 @@
       },
       {
         "text": "nạp tiền",
-        "value": 976,
+        "value": 977,
         "sentiment": "Negative"
       },
       {
@@ -7143,7 +7148,7 @@
       },
       {
         "text": "sao không",
-        "value": 940,
+        "value": 944,
         "sentiment": "Negative"
       },
       {
@@ -7152,18 +7157,18 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tiền ko",
+        "value": 921,
+        "sentiment": "Negative"
+      },
+      {
         "text": "lỗi hoài",
         "value": 919,
         "sentiment": "Negative"
       },
       {
-        "text": "tiền ko",
-        "value": 919,
-        "sentiment": "Negative"
-      },
-      {
         "text": "ngày lỗi",
-        "value": 890,
+        "value": 891,
         "sentiment": "Negative"
       },
       {
@@ -7173,12 +7178,12 @@
       },
       {
         "text": "rất tuyệt vời",
-        "value": 871,
+        "value": 874,
         "sentiment": "Positive"
       },
       {
         "text": "tiền tài khoản",
-        "value": 868,
+        "value": 870,
         "sentiment": "Negative"
       },
       {
@@ -7202,12 +7207,12 @@
         "sentiment": "Negative"
       },
       {
-        "text": "chuyển đc",
-        "value": 805,
+        "text": "nhưng vẫn",
+        "value": 806,
         "sentiment": "Negative"
       },
       {
-        "text": "nhưng vẫn",
+        "text": "chuyển đc",
         "value": 805,
         "sentiment": "Negative"
       },
@@ -7217,28 +7222,28 @@
         "sentiment": "Negative"
       },
       {
+        "text": "tin nhắn",
+        "value": 802,
+        "sentiment": "Negative"
+      },
+      {
         "text": "digital otp",
         "value": 801,
         "sentiment": "Negative"
       },
       {
-        "text": "tin nhắn",
-        "value": 800,
-        "sentiment": "Negative"
-      },
-      {
         "text": "trên thiết bị",
-        "value": 793,
+        "value": 794,
         "sentiment": "Negative"
       },
       {
         "text": "ko nhận",
-        "value": 792,
+        "value": 793,
         "sentiment": "Negative"
       },
       {
         "text": "toàn lỗi",
-        "value": 787,
+        "value": 788,
         "sentiment": "Negative"
       },
       {
@@ -7253,12 +7258,12 @@
       },
       {
         "text": "mãi ko",
-        "value": 765,
+        "value": 766,
         "sentiment": "Negative"
       },
       {
         "text": "thiết bị cũ",
-        "value": 748,
+        "value": 749,
         "sentiment": "Negative"
       },
       {
@@ -7273,7 +7278,7 @@
       },
       {
         "text": "rất hay",
-        "value": 743,
+        "value": 742,
         "sentiment": "Negative"
       },
       {
@@ -7282,23 +7287,28 @@
         "sentiment": "Negative"
       },
       {
-        "text": "không thông báo",
-        "value": 734,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "vẫn ko",
-        "value": 733,
-        "sentiment": "Negative"
-      },
-      {
         "text": "thông báo biến động",
-        "value": 732,
+        "value": 737,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "không thông báo",
+        "value": 736,
         "sentiment": "Negative"
       },
       {
         "text": "ko dc",
-        "value": 730,
+        "value": 733,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "vẫn ko",
+        "value": 732,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cập nhật phiên bản",
+        "value": 729,
         "sentiment": "Negative"
       },
       {
@@ -7307,18 +7317,13 @@
         "sentiment": "Negative"
       },
       {
-        "text": "cập nhật phiên bản",
+        "text": "bị trừ tiền",
         "value": 727,
         "sentiment": "Negative"
       },
       {
-        "text": "bị trừ tiền",
-        "value": 725,
-        "sentiment": "Negative"
-      },
-      {
         "text": "ko thấy",
-        "value": 725,
+        "value": 727,
         "sentiment": "Negative"
       },
       {
@@ -7328,14 +7333,14 @@
       },
       {
         "text": "sao ko",
-        "value": 714,
+        "value": 715,
         "sentiment": "Negative"
       }
     ],
     "efast": [
       {
         "text": "quá tệ",
-        "value": 28,
+        "value": 29,
         "sentiment": "Negative"
       },
       {
@@ -7355,7 +7360,7 @@
       },
       {
         "text": "dễ sử dụng",
-        "value": 12,
+        "value": 13,
         "sentiment": "Positive"
       },
       {
@@ -7365,7 +7370,7 @@
       },
       {
         "text": "duyệt lệnh",
-        "value": 9,
+        "value": 10,
         "sentiment": "Negative"
       },
       {
@@ -7384,6 +7389,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "gọi tổng đài",
+        "value": 7,
+        "sentiment": "Negative"
+      },
+      {
         "text": "lỗi không",
         "value": 7,
         "sentiment": "Negative"
@@ -7396,6 +7406,11 @@
       {
         "text": "vân tay",
         "value": 7,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cứ báo",
+        "value": 6,
         "sentiment": "Negative"
       },
       {
@@ -7454,16 +7469,6 @@
         "sentiment": "Negative"
       },
       {
-        "text": "cứ báo",
-        "value": 5,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "gọi tổng đài",
-        "value": 5,
-        "sentiment": "Negative"
-      },
-      {
         "text": "khó sử dụng",
         "value": 5,
         "sentiment": "Negative"
@@ -7494,6 +7499,11 @@
         "sentiment": "Positive"
       },
       {
+        "text": "tên đăng nhập",
+        "value": 5,
+        "sentiment": "Negative"
+      },
+      {
         "text": "tạo lệnh",
         "value": 5,
         "sentiment": "Negative"
@@ -7509,6 +7519,11 @@
         "sentiment": "Negative"
       },
       {
+        "text": "báo sai",
+        "value": 4,
+        "sentiment": "Negative"
+      },
+      {
         "text": "bằng vân",
         "value": 4,
         "sentiment": "Negative"
@@ -7520,6 +7535,11 @@
       },
       {
         "text": "cài xong",
+        "value": 4,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cùng 1",
         "value": 4,
         "sentiment": "Negative"
       },
@@ -7614,11 +7634,6 @@
         "sentiment": "Negative"
       },
       {
-        "text": "tên đăng nhập",
-        "value": 4,
-        "sentiment": "Negative"
-      },
-      {
         "text": "tính phí",
         "value": 4,
         "sentiment": "Negative"
@@ -7684,12 +7699,17 @@
         "sentiment": "Negative"
       },
       {
-        "text": "cùng 1",
+        "text": "chứ không",
         "value": 3,
         "sentiment": "Negative"
       },
       {
         "text": "cần gấp",
+        "value": 3,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "cứ báo sai",
         "value": 3,
         "sentiment": "Negative"
       },
@@ -7700,6 +7720,16 @@
       },
       {
         "text": "doanh nghiệp lỗi",
+        "value": 3,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "hay lỗi",
+        "value": 3,
+        "sentiment": "Negative"
+      },
+      {
+        "text": "hơn cũ",
         "value": 3,
         "sentiment": "Negative"
       },
@@ -7805,31 +7835,6 @@
       },
       {
         "text": "rồi sao",
-        "value": 3,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao ko",
-        "value": 3,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sao đăng nhập",
-        "value": 3,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sinh trắc học",
-        "value": 3,
-        "sentiment": "Negative"
-      },
-      {
-        "text": "sử dụng thuận tiện",
-        "value": 3,
-        "sentiment": "Positive"
-      },
-      {
-        "text": "thu phí",
         "value": 3,
         "sentiment": "Negative"
       }
